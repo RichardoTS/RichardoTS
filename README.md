@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ricardo or Richard!</h1>
 <h3 align="center">I'm a Junior Dev, English Teacher, and definitely a Gamer!!</h3>
 
-- 🌱 I’m currently learning and relearning **JS, React, and Data Bases**
+- 🌱 I’m currently learning and relearning **JS, React, and more.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RichardoTS?tab=repositories](https://github.com/RichardoTS?tab=repositories)
 
