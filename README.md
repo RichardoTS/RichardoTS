@@ -3,4 +3,4 @@
 
 
 
-## I'm a Teacher, Junior Dev, and definitely a Gamer!!
+## I'm a Junior Dev, English Teacher, and definitely a Gamer!!
